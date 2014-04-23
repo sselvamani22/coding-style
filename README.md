@@ -693,8 +693,9 @@ All comments must be made using the syntax of the preprocessor in use.
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
 
 <a name="Best Practices"></a>
-## Here I added some more website for Best practices
+## Here I added some more websites for Best practice
 
+http://myblog.getallfix.com/web-developer-tutorials-htmlcss-tutorials/
 http://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957
 
 
