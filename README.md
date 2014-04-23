@@ -695,7 +695,7 @@ All comments must be made using the syntax of the preprocessor in use.
 <a name="Best Practices"></a>
 ## Here I added some more websites for Best practice
 
-http://myblog.getallfix.com/web-developer-tutorials-htmlcss-tutorials/
+http://myblog.getallfix.com/web-developer-tutorials-htmlcss-tutorials/ <br />
 http://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957
 
 
